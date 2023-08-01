@@ -1,3 +1,3 @@
 ### Hello there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UdulaAbeykoon)](https://github.com/anuraghazra/github-readme-stats)
+I'm Udula from Toronto, Canada. I'm a highschool with a deep interest for programming and development. I enjoy working with Python, Java, and JavaScript, and I'm constantly honing my skills to become a proficient developer. 
