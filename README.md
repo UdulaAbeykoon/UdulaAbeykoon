@@ -6,7 +6,7 @@ I'm Udula from Toronto, Canada. I'm a highschool student with a deep interest fo
 
 ---
 
-### Languages and Tools
+### LANGUAGES AND TOOLS
 
 <img align="left" alt="Python" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="VSCode" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
@@ -24,7 +24,7 @@ I'm Udula from Toronto, Canada. I'm a highschool student with a deep interest fo
 
 ---
 
-### Stats
+### STATS
 
 <img alt="Udula's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=UdulaAbeykoon&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E" height="198px"/>
 
