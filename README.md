@@ -1,7 +1,7 @@
 ### UDULA ABEYKOON 🐒
 
 
-I'm Udula from Toronto, Canada. I'm a highschool student with a deep interest for programming, design and development. I enjoy working with Python, Java, and JavaScript. I'm constantly honing my skills to become a proficient developer. 
+I'm Udula from Toronto, Canada. I'm a high school student interested in programming, design, and development. I enjoy working with Python, Java, and JavaScript. I'm constantly honing my skills to become a proficient developer. 
 
 ---
 
