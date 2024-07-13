@@ -1,4 +1,4 @@
-### Hi, I'm Udula! 🐒
+# 👋 Hi there, I'm Udula! 🐒
 
 ---
 
