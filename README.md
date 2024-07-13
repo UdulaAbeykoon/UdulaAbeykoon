@@ -1,4 +1,4 @@
-### Hi! I'm UDULA ABEYKOON 🐒
+### Hi, I'm Udula! 🐒
 
 ---
 
