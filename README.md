@@ -1,12 +1,5 @@
 #  Hi there, I'm Udula! 🐒
 
-
-
-### STATS
-
-<img alt="Udula's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=UdulaAbeykoon&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E" height="198px"/>
-
-<h1 align="center">Hi 👋, I'm Udula</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udulaabeykoon&label=Profile%20views&color=0e75b6&style=flat" alt="udulaabeykoon" /> </p>
 
 <h3 align="left">Connect with me:</h3>
