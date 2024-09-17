@@ -1,6 +1,6 @@
 #  Hi there, I'm Udula! 🐒
 
-![Banner](tempbanner.png)
+![Banner] (tempbanner.png)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
