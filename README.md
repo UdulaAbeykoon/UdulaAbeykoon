@@ -8,7 +8,7 @@
 
 </div>
 <div style="text-align: center; background-color: black; padding: 10px; display: inline-block; border-radius: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udulaabeykoon&show_icons=true&locale=en&layout=compact" alt="udulaabeykoon" style="border: 10px solid black; width: 600px; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udulaabeykoon&show_icons=true&locale=en&layout=compact" alt="udulaabeykoon" style="border: 10px solid black; width: 200px; height: auto;"/>
 </div>
 </p>
 </div>
