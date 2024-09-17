@@ -1,6 +1,6 @@
 #  Hi there, I'm Udula! 🐒
 
-![Banner](tempbanner.png)
+![Banner](ProfileBanner.png)
 
 
 <h3 align="left">Languages and Tools:</h3>
